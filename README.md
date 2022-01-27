@@ -1,4 +1,4 @@
-# UNFINISHED 
+# UNFINISHED
 
 It's an exciting time for all curious minds.
 
@@ -24,4 +24,4 @@ sha256: 8d3cd2c2f912bf1e2f5489284c2460369ad2057816ae55fbd6d49c41ad9a73f4
 * [UNFINISHED COMMUNITY](https://unfinished.ro/)
 * [UNFINISHED MANIFESTO](https://www.unfinished.ro/manifesto)
 
-See our corresponding story on Medium [here](https://medium.com/@unfinished/unfinished-dreams-b0d403767e98).
+See our corresponding story on Medium [here](https://medium.com/@unfinished/unfinished-dreams-b0d403767e98) or access the UNFINISHED DREAMS document on [IPFS(InterPlanetary File System)](https://ipfs.io/ipfs/Qmecu6o4CM9CeMrwoHJ24YstwvZGzq3fWCtzMjXQQBwjvJ).
